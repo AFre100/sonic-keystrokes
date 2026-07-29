@@ -2,7 +2,7 @@
 
 **A browser-based typing sonification tool — every keystroke plays a sample through a small signal chain, in-browser, offline, with no build step.**
 
-Try it: https://github.com/AFre100/sonic-keystrokes/
+Try it: [https://github.com/AFre100/sonic-keystrokes/](https://afre100.github.io/sonic-keystrokes/)
 
 Made by [Amnon Freidlin](https://megabloomstudio.com) — designer, sound designer, creative technologist.
 
